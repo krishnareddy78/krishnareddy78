@@ -1,10 +1,6 @@
 # Hey there!
 
-I am a Data Scientist & ML Engineer with 2+ Years of experience based in Connecticut. I graduated from @IowaStateUniversity with a Masters in Information Systems
-
-I also worked for @CaseysGeneralStores and @IowaStateUniversity (AI/ML Research Centers) as Data Scientist and ML Engineer.
-
-I like coding and I am curious about: Advanced Analytics, Machine Learning, Data Engineering, Generative AI, Business Intelligence & keep discovering new stuff everyday 
+I am a Data Scientist & ML Engineer with 2+ Years of experience based in Connecticut. I graduated from @IowaStateUniversity with a Masters in Information Systems. I also worked for @CaseysGeneralStores and @IowaStateUniversity (AI/ML Research Centers) as Data Scientist and ML Engineer. I like coding and I am curious about: Advanced Analytics, Machine Learning, Data Engineering, Generative AI, Business Intelligence & keep discovering new stuff everyday 
 
 [My LinkedIn](https://www.linkedin.com/in/thanay-krishnareddypeta/)
 
