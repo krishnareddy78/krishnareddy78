@@ -7,6 +7,7 @@ I also worked for @CaseysGeneralStores and @IowaStateUniversity (AI/ML Research 
 I like coding and I am curious about: Advanced Analytics, Machine Learning, Data Engineering, Generative AI, Business Intelligence & keep discovering new stuff everyday 
 
 Linkedin- https://www.linkedin.com/in/thanay-krishnareddypeta/
+
 Resume- [My Resume](https://drive.google.com/file/d/1X4Wf7sOtgJ9I8jaHG7R29RAvUwWe1JEz/view?usp=sharing)
 ## Skills
 
