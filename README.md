@@ -1,55 +1,68 @@
-<h1 align="center">Hi there, I'm Thanay Krishnareddypeta 👋</h1>
+# 🙋🏻‍♂️ Introducing Myself
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Data+Engineer;ML+Engineer;Data+Scientist" alt="Typing SVG" />
-</div>
+Hello, I'm **Thanay**. Full-stack Data & ML Engineer with 2.5 years of US industry experience architecting end-to-end data systems for large-scale retail (2,900+ locations) and healthcare operations.
 
----
-
-### 👨‍💻 About Me
-
-* 🔭 I am currently working as a Full-stack Data & ML Engineer with 2.5 years of US industry experience.
-* 🌱 I have expertise spanning the entire data lifecycle, from engineering highly available ETL/ELT pipelines to productionizing advanced machine learning systems.
-* 💼 I have architected end-to-end data systems for US-scale retail operations across 2,900+ locations, as well as healthcare operations.
-* 🎓 I graduated from Iowa State University with a Master's in Information Systems.
-* 💬 Ask me about: Python, PyTorch, Snowflake, Kafka, Airflow, and Cloud Architecture.
-* 📫 How to reach me: **krpthanay2001@gmail.com**
+- 🔭 Building highly available ETL/ELT and streaming pipelines on **AWS, GCP, and Azure**.
+- 🤖 Productionizing advanced ML systems — from demand forecasting and computer vision to LLM-powered clinical NLP.
+- 🏗️ Designing enterprise data models (Kimball, Star Schema, dbt) on **Snowflake** and **BigQuery**.
+- 🎓 Master's in Information Systems from **Iowa State University** (GPA: 3.89/4.0).
+- 💬 Ask me about: **Python, PyTorch, Snowflake, Kafka, Airflow, and Cloud Architecture**.
+- 📫 Reach me at: **krpthanay2001@gmail.com**
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## 📚 Projects
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake"/>
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Kafka"/>
-  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="Airflow"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP"/>
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-</p>
+Welcome to my portfolio, where I showcase my [projects](https://github.com/krishnareddy78).
+
+| Project | Description | Tools |
+|---|---|---|
+| [XGBoost from Scratch](https://github.com/krishnareddy78/xgboost-from-scratch) | Advanced from-scratch implementation of XGBoost focusing on core mathematical principles | Python, NumPy |
+| [Price Elasticity Engine](https://github.com/krishnareddy78/price-elasticity-engine) | End-to-end engine for price elasticity modeling and profit optimization | Python, Scikit-learn |
+| [PySpark ETL Framework](https://github.com/krishnareddy78/pyspark-etl-framework) | Configuration-driven, scalable ETL framework with Dockerized Airflow & Spark | PySpark, Airflow, Docker |
+| [PySpark CLTV](https://github.com/krishnareddy78/pyspark-cltv) | First-principles probabilistic CLTV modeling using BG/NBD and Gamma-Gamma models in PySpark | PySpark, MLflow |
 
 ---
 
-### 📊 GitHub Stats
+## 🛠️ Tools
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krishnareddy78&show_icons=true&theme=radical&hide_border=true" alt="Thanay's GitHub Stats" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnareddy78&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
+**Languages & ML:**
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
+
+**Data Engineering:**
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+
+**Cloud & MLOps:**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+
+**Visualization:**
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 ---
 
-### 🤝 Connect with me
+## 📊 GitHub Stats
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/thanay-krishnareddypeta/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:krpthanay2001@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
+![Thanay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishnareddy78&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnareddy78&layout=compact&theme=radical&hide_border=true)
+
+---
+
+## 👋🏻 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thanay-krishnareddypeta/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krpthanay2001@gmail.com)
