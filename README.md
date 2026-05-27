@@ -74,13 +74,6 @@ Welcome to my portfolio, where I showcase my projects and work.
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-![Thanay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishnareddy78&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnareddy78&layout=compact&theme=radical&hide_border=true)
 
 ---
 
