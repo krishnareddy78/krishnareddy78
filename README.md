@@ -21,28 +21,28 @@ Welcome to my portfolio, where I showcase my projects and work.
 |---|---|---|
 | [XGBoost from Scratch](https://github.com/krishnareddy78/xgboost-from-scratch) | Advanced from-scratch implementation of XGBoost focusing on core mathematical principles — built to deeply understand gradient boosting internals | Python, NumPy |
 | [Price Elasticity Engine](https://github.com/krishnareddy78/price-elasticity-engine) | End-to-end engine for price elasticity modeling and profit optimization; similar methodology used in production to increase fuel gross profit margin by 4.2 pp | Python, Scikit-learn |
-| Demand Forecasting (Casey's, 2,900+ stores) | Productionized Prophet + XGBoost demand forecasting with automated retraining on Azure Databricks; reduced forecast MAPE from 22% → 16%; SHAP used for store-level explainability | PyTorch, XGBoost, Prophet, SHAP, Azure Databricks |
-| Retail Computer Vision | PyTorch YOLO model to detect out-of-stock products and shelf gaps from aisle images; OpenCV preprocessing + FastAPI inference service for near real-time shelf compliance | PyTorch, YOLO, OpenCV, FastAPI |
-| Dental X-Ray Classification | Deep learning CNN pipeline (U-Net) for dental X-ray classification and tooth segmentation; evaluated with IoU, deployed via FastAPI with MLflow tracking | PyTorch, TensorFlow, U-Net, FastAPI, MLflow |
-| Clinical NLP (LLM) | Integrated OpenAI API + LangChain to extract structured clinical entities and sentiment from unstructured dental notes, improving claim coding accuracy | LangChain, OpenAI API, Python |
+| [Demand Forecasting (Casey's, 2,900+ stores)](https://github.com/krishnareddy78/demand-forecasting) | Productionized Prophet + XGBoost demand forecasting with automated retraining on Azure Databricks; reduced forecast MAPE from 22% → 16%; SHAP used for store-level explainability | PyTorch, XGBoost, Prophet, SHAP, Azure Databricks |
+| [Retail Computer Vision](https://github.com/krishnareddy78/retail-computer-vision) | PyTorch YOLO model to detect out-of-stock products and shelf gaps from aisle images; OpenCV preprocessing + FastAPI inference service for near real-time shelf compliance | PyTorch, YOLO, OpenCV, FastAPI |
+| [Dental X-Ray Classification](https://github.com/krishnareddy78/dental-xray-classification) | Deep learning CNN pipeline (U-Net) for dental X-ray classification and tooth segmentation; evaluated with IoU, deployed via FastAPI with MLflow tracking | PyTorch, TensorFlow, U-Net, FastAPI, MLflow |
+| [Clinical NLP (LLM)](https://github.com/krishnareddy78/clinical-nlp) | Integrated OpenAI API + LangChain to extract structured clinical entities and sentiment from unstructured dental notes, improving claim coding accuracy | LangChain, OpenAI API, Python |
 
 ### 🏗️ Data Engineering
 
 | Project | Description | Tools |
 |---|---|---|
 | [PySpark ETL Framework](https://github.com/krishnareddy78/pyspark-etl-framework) | Configuration-driven, scalable ETL framework with data validation, orchestrated by Dockerized Airflow & Spark cluster | PySpark, Airflow, Docker |
-| Healthcare Data Warehouse (Purple Dental) | Consolidated 5+ operational sources into a central AWS warehouse; cut data retrieval from 3 hours → under 5 minutes; real-time Kafka streaming for appointment and telemetry data | AWS (S3, Lambda, Redshift), Kafka, Python |
-| Insurance Claims Monitoring | Python-based validation tooling automating detection of denial patterns, recovering $45K in annual revenue; pytest data quality checks catching a $18K production defect | Python, pytest, AWS |
-| Enterprise Data Modeling (Casey's) | Designed Star Schema / Kimball data models in Snowflake using dbt Core, transforming raw POS telemetry for 2,900+ locations into performant analytical tables | Snowflake, dbt, SparkSQL |
+| [Healthcare Data Warehouse (Purple Dental)](https://github.com/krishnareddy78/healthcare-data-warehouse) | Consolidated 5+ operational sources into a central AWS warehouse; cut data retrieval from 3 hours → under 5 minutes; real-time Kafka streaming for appointment and telemetry data | AWS (S3, Lambda, Redshift), Kafka, Python |
+| [Insurance Claims Monitoring](https://github.com/krishnareddy78/insurance-claims-monitoring) | Python-based validation tooling automating detection of denial patterns, recovering $45K in annual revenue; pytest data quality checks catching a $18K production defect | Python, pytest, AWS |
+| [Enterprise Data Modeling (Casey's)](https://github.com/krishnareddy78/enterprise-data-modeling) | Designed Star Schema / Kimball data models in Snowflake using dbt Core, transforming raw POS telemetry for 2,900+ locations into performant analytical tables | Snowflake, dbt, SparkSQL |
 
 ### 📊 Analytics & Experimentation
 
 | Project | Description | Tools |
 |---|---|---|
 | [PySpark CLTV](https://github.com/krishnareddy78/pyspark-cltv) | First-principles probabilistic CLTV modeling using BG/NBD and Gamma-Gamma models in PySpark; validated against the `lifetimes` library | PySpark, MLflow |
-| A/B Testing Infrastructure | Designed A/B + shadow testing infrastructure for 40+ concurrent model experiments at Casey's; identified $2.3M in incremental annual revenue | Python, Databricks, Statistical Analysis |
-| Causal Inference — Pizza Promotion | Applied Difference-in-Differences (DiD) to estimate causal lift of in-app pizza promotions on fuel volume; isolated a 3.5% causal lift attributable to $3 discount | Python, SciPy, BigQuery |
-| Power BI KPI Dashboards | 15+ operational KPI dashboards at Purple Dental, surfacing a 22% no-show reduction opportunity and $4,200 average weekly collections visibility for executives | Power BI |
+| [A/B Testing Infrastructure](https://github.com/krishnareddy78/ab-testing-infrastructure) | Designed A/B + shadow testing infrastructure for 40+ concurrent model experiments at Casey's; identified $2.3M in incremental annual revenue | Python, Databricks, Statistical Analysis |
+| [Causal Inference — Pizza Promotion](https://github.com/krishnareddy78/causal-inference-pizza) | Applied Difference-in-Differences (DiD) to estimate causal lift of in-app pizza promotions on fuel volume; isolated a 3.5% causal lift attributable to $3 discount | Python, SciPy, BigQuery |
+| [Power BI KPI Dashboards](https://github.com/krishnareddy78/powerbi-kpi-dashboards) | 15+ operational KPI dashboards at Purple Dental, surfacing a 22% no-show reduction opportunity and $4,200 average weekly collections visibility for executives | Power BI |
 
 ---
 
