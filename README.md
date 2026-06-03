@@ -1,6 +1,6 @@
 # 🙋🏻‍♂️ Introducing Myself
 
-Hello, I'm **Thanay**. Full-stack Data & ML Engineer with 2.5 years of US industry experience architecting end-to-end data systems for large-scale retail (2,900+ locations) and healthcare operations.
+Hello, I'm **Thanay**. Full-stack Data & ML Engineer with 3+ years of US industry experience architecting end-to-end data systems for large-scale retail (2,900+ locations) and healthcare operations.
 
 - 🔭 Building highly available ETL/ELT and streaming pipelines on **AWS, GCP, and Azure**.
 - 🤖 Productionizing advanced ML systems — from demand forecasting and computer vision to LLM-powered clinical NLP.
