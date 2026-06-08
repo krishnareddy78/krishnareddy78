@@ -9,7 +9,7 @@
         <li>🏗️ Designing enterprise data models (Kimball, Star Schema, dbt) on <b>Snowflake</b> and <b>BigQuery</b>.</li>
         <li>🎓 Master's in Information Systems from <b>Iowa State University</b> (GPA: 3.89/4.0).</li>
         <li>💬 Ask me about: <b>Python, PyTorch, Snowflake, Kafka, Airflow, and Cloud Architecture</b>.</li>
-        <li>📫 Reach me at: <b><a href="mailto:krishnareddy.thanay@proton.me">krpthanay2001@gmail.com</a></b></li>
+        <li>📫 Reach me at: <b><a href="mailto:krishnareddy.thanay@proton.me">krishnareddy.thanay@proton.me</a></b></li>
       </ul>
     </td>
     <td width="45%" valign="middle" style="border: none;">
