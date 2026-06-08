@@ -14,8 +14,8 @@
     </td>
     <td width="45%" valign="middle" style="border: none;">
       <p align="center">
-        <img src="https://raw.githubusercontent.com/krishnareddy78/portfolio/main/img1.jpg" width="16%" />
-        <img src="https://raw.githubusercontent.com/krishnareddy78/portfolio/main/img3.JPG" width="22%" /> &nbsp;
+        <img src="https://raw.githubusercontent.com/krishnareddy78/portfolio/main/img1.jpg" width="16%" /> &nbsp;
+        <img src="https://raw.githubusercontent.com/krishnareddy78/portfolio/main/img3.JPG" width="22%" /> 
         <img src="https://raw.githubusercontent.com/krishnareddy78/portfolio/main/img4.JPG" width="18%" /> &nbsp;
         <img src="https://raw.githubusercontent.com/krishnareddy78/portfolio/main/img5.JPG" width="14%" />
         <br>
@@ -23,9 +23,9 @@
         <img src="https://raw.githubusercontent.com/krishnareddy78/portfolio/main/img8.JPG" width="18%" />
         <img src="https://raw.githubusercontent.com/krishnareddy78/portfolio/main/img10.JPG" width="22%" /> &nbsp;
         <br>
-        <img src="https://raw.githubusercontent.com/krishnareddy78/portfolio/main/img11.JPG" width="12%" /> &nbsp;
-        <img src="https://raw.githubusercontent.com/krishnareddy78/portfolio/main/img12.JPG" width="24%" />
-        <img src="https://raw.githubusercontent.com/krishnareddy78/portfolio/main/img13.JPG" width="16%" /> &nbsp;
+        <img src="https://raw.githubusercontent.com/krishnareddy78/portfolio/main/img11.JPG" width="24%" /> &nbsp;
+        <img src="https://raw.githubusercontent.com/krishnareddy78/portfolio/main/img12.JPG" width="15%" />
+        <img src="https://raw.githubusercontent.com/krishnareddy78/portfolio/main/img13.JPG" width="19%" /> &nbsp;
         <img src="https://raw.githubusercontent.com/krishnareddy78/portfolio/main/img14.JPG" width="18%" />
         <br>
         &nbsp; <img src="https://raw.githubusercontent.com/krishnareddy78/portfolio/main/img16.png" width="24%" />
