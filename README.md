@@ -14,8 +14,8 @@
     </td>
     <td width="45%" valign="middle" style="border: none;">
       <p align="center">
-        <img src="https://raw.githubusercontent.com/krishnareddy78/portfolio/main/img1.jpg" width="16%" /> &nbsp;
-        <img src="https://raw.githubusercontent.com/krishnareddy78/portfolio/main/img3.JPG" width="22%" /> 
+        <img src="https://raw.githubusercontent.com/krishnareddy78/portfolio/main/img1.jpg" width="16%" /> 
+        <img src="https://raw.githubusercontent.com/krishnareddy78/portfolio/main/img3.JPG" width="22%" /> &nbsp;
         <img src="https://raw.githubusercontent.com/krishnareddy78/portfolio/main/img4.JPG" width="18%" /> &nbsp;
         <img src="https://raw.githubusercontent.com/krishnareddy78/portfolio/main/img5.JPG" width="14%" />
         <br>
