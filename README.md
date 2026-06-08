@@ -9,6 +9,19 @@ Hello, I'm **Thanay**. Full-stack Data & ML Engineer with 3+ years of US industr
 - 💬 Ask me about: **Python, PyTorch, Snowflake, Kafka, Airflow, and Cloud Architecture**.
 - 📫 Reach me at: **krpthanay2001@gmail.com**
 
+<br>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/krishnareddy78/portfolio/main/img1.jpg" width="32%" />
+  <img src="https://raw.githubusercontent.com/krishnareddy78/portfolio/main/img2.JPG" width="32%" />
+  <img src="https://raw.githubusercontent.com/krishnareddy78/portfolio/main/img3.JPG" width="32%" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/krishnareddy78/portfolio/main/img4.JPG" width="32%" />
+  <img src="https://raw.githubusercontent.com/krishnareddy78/portfolio/main/img5.JPG" width="32%" />
+  <img src="https://raw.githubusercontent.com/krishnareddy78/portfolio/main/img7.JPG" width="32%" />
+</p>
+
 ---
 
 ## 📚 Projects
@@ -44,20 +57,17 @@ Welcome to my portfolio, where I showcase my projects and work.
 
 ## 🛠️ Tools
 
-
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
 
-
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 ![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
-
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
@@ -66,10 +76,8 @@ Welcome to my portfolio, where I showcase my projects and work.
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 
-
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-
 
 ---
 
@@ -77,16 +85,3 @@ Welcome to my portfolio, where I showcase my projects and work.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thanay-krishnareddypeta/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krpthanay2001@gmail.com)
-
-### 📸 Visual Portfolio
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/krishnareddy78/portfolio/main/img1.jpg" width="30%" />
-  <img src="https://raw.githubusercontent.com/krishnareddy78/portfolio/main/img2.JPG" width="30%" />
-  <img src="https://raw.githubusercontent.com/krishnareddy78/portfolio/main/img3.JPG" width="30%" />
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/krishnareddy78/portfolio/main/img4.JPG" width="30%" />
-  <img src="https://raw.githubusercontent.com/krishnareddy78/portfolio/main/img5.JPG" width="30%" />
-  <img src="https://raw.githubusercontent.com/krishnareddy78/portfolio/main/img7.JPG" width="30%" />
-</p>
