@@ -48,6 +48,8 @@ Welcome to my portfolio, where I showcase my projects and work.
 | [Retail Computer Vision](https://github.com/krishnareddy78/retail-computer-vision) | PyTorch YOLO model to detect out-of-stock products and shelf gaps from aisle images; OpenCV preprocessing + FastAPI inference service for near real-time shelf compliance | PyTorch, YOLO, OpenCV, FastAPI |
 | [Dental X-Ray Classification](https://github.com/krishnareddy78/dental-xray-classification) | Deep learning CNN pipeline (U-Net) for dental X-ray classification and tooth segmentation; evaluated with IoU, deployed via FastAPI with MLflow tracking | PyTorch, TensorFlow, U-Net, FastAPI, MLflow |
 | [Clinical NLP (LLM)](https://github.com/krishnareddy78/clinical-nlp) | Integrated OpenAI API + LangChain to extract structured clinical entities and sentiment from unstructured dental notes, improving claim coding accuracy | LangChain, OpenAI API, Python |
+| [Crop Yield Prediction (Iowa State)](https://github.com/krishnareddy78/crop-yield-prediction) | LSTM + XGBoost ensemble for corn/soybean yield prediction fusing satellite imagery (NDVI/EVI), IoT soil sensors & weather data; 14% MAPE improvement over baseline; SHAP-driven VRA prescription maps reducing input costs by 18% | PyTorch, XGBoost, GeoPandas, Airflow, SHAP |
+| [Gene Expression Classification](https://github.com/krishnareddy78/bioinfo-gene-classification) | RF + SVM classifiers on RNA-seq count matrices & protein feature descriptors for disease phenotype identification; ROC-AUC 0.91; DESeq2 normalization, PCA reduction (20K → 128 features), 5-fold stratified CV | Scikit-learn, BioPython, SciPy, NumPy |
 
 ### 🏗️ Data Engineering
 
