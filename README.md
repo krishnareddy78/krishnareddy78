@@ -1,34 +1,39 @@
-# 🙋🏻‍♂️ Introducing Myself
-
-Hello, I'm **Thanay**. Full-stack Data & ML Engineer with 3+ years of US industry experience architecting end-to-end data systems for large-scale retail (2,900+ locations) and healthcare operations.
-
-- 🔭 Building highly available ETL/ELT and streaming pipelines on **AWS, GCP, and Azure**.
-- 🤖 Productionizing advanced ML systems — from demand forecasting and computer vision to LLM-powered clinical NLP.
-- 🏗️ Designing enterprise data models (Kimball, Star Schema, dbt) on **Snowflake** and **BigQuery**.
-- 🎓 Master's in Information Systems from **Iowa State University** (GPA: 3.89/4.0).
-- 💬 Ask me about: **Python, PyTorch, Snowflake, Kafka, Airflow, and Cloud Architecture**.
-- 📫 Reach me at: **krpthanay2001@gmail.com**
-
-<br>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/krishnareddy78/portfolio/main/img1.jpg" width="8%" />
-  <img src="https://raw.githubusercontent.com/krishnareddy78/portfolio/main/img2.JPG" width="12%" /> &nbsp; &nbsp;
-  <img src="https://raw.githubusercontent.com/krishnareddy78/portfolio/main/img3.JPG" width="6%" />
-  <img src="https://raw.githubusercontent.com/krishnareddy78/portfolio/main/img4.JPG" width="10%" /> &nbsp;
-  <img src="https://raw.githubusercontent.com/krishnareddy78/portfolio/main/img5.JPG" width="7%" />
-  <br>
-  &nbsp; &nbsp; &nbsp; <img src="https://raw.githubusercontent.com/krishnareddy78/portfolio/main/img7.JPG" width="14%" />
-  <img src="https://raw.githubusercontent.com/krishnareddy78/portfolio/main/img8.JPG" width="9%" />
-  <img src="https://raw.githubusercontent.com/krishnareddy78/portfolio/main/img10.JPG" width="11%" /> &nbsp; &nbsp;
-  <br>
-  <img src="https://raw.githubusercontent.com/krishnareddy78/portfolio/main/img11.JPG" width="6%" /> &nbsp;
-  <img src="https://raw.githubusercontent.com/krishnareddy78/portfolio/main/img12.JPG" width="13%" />
-  <img src="https://raw.githubusercontent.com/krishnareddy78/portfolio/main/img13.JPG" width="8%" /> &nbsp; &nbsp; &nbsp;
-  <img src="https://raw.githubusercontent.com/krishnareddy78/portfolio/main/img14.JPG" width="10%" />
-  <br>
-  &nbsp; <img src="https://raw.githubusercontent.com/krishnareddy78/portfolio/main/img16.png" width="12%" />
-</p>
+<table style="border: none;">
+  <tr style="border: none;">
+    <td width="55%" valign="top" style="border: none;">
+      <h2>🙋🏻‍♂️ Introducing Myself</h2>
+      <p>Hello, I'm <b>Thanay</b>. Full-stack Data & ML Engineer with 3+ years of US industry experience architecting end-to-end data systems for large-scale retail (2,900+ locations) and healthcare operations.</p>
+      <ul>
+        <li>🔭 Building highly available ETL/ELT and streaming pipelines on <b>AWS, GCP, and Azure</b>.</li>
+        <li>🤖 Productionizing advanced ML systems — from demand forecasting and computer vision to LLM-powered clinical NLP.</li>
+        <li>🏗️ Designing enterprise data models (Kimball, Star Schema, dbt) on <b>Snowflake</b> and <b>BigQuery</b>.</li>
+        <li>🎓 Master's in Information Systems from <b>Iowa State University</b> (GPA: 3.89/4.0).</li>
+        <li>💬 Ask me about: <b>Python, PyTorch, Snowflake, Kafka, Airflow, and Cloud Architecture</b>.</li>
+        <li>📫 Reach me at: <b><a href="mailto:krpthanay2001@gmail.com">krpthanay2001@gmail.com</a></b></li>
+      </ul>
+    </td>
+    <td width="45%" valign="middle" style="border: none;">
+      <p align="center">
+        <img src="https://raw.githubusercontent.com/krishnareddy78/portfolio/main/img1.jpg" width="16%" />
+        <img src="https://raw.githubusercontent.com/krishnareddy78/portfolio/main/img2.JPG" width="22%" /> &nbsp;
+        <img src="https://raw.githubusercontent.com/krishnareddy78/portfolio/main/img3.JPG" width="12%" />
+        <img src="https://raw.githubusercontent.com/krishnareddy78/portfolio/main/img4.JPG" width="18%" /> &nbsp;
+        <img src="https://raw.githubusercontent.com/krishnareddy78/portfolio/main/img5.JPG" width="14%" />
+        <br>
+        &nbsp; &nbsp; <img src="https://raw.githubusercontent.com/krishnareddy78/portfolio/main/img7.JPG" width="26%" />
+        <img src="https://raw.githubusercontent.com/krishnareddy78/portfolio/main/img8.JPG" width="18%" />
+        <img src="https://raw.githubusercontent.com/krishnareddy78/portfolio/main/img10.JPG" width="22%" /> &nbsp;
+        <br>
+        <img src="https://raw.githubusercontent.com/krishnareddy78/portfolio/main/img11.JPG" width="12%" /> &nbsp;
+        <img src="https://raw.githubusercontent.com/krishnareddy78/portfolio/main/img12.JPG" width="24%" />
+        <img src="https://raw.githubusercontent.com/krishnareddy78/portfolio/main/img13.JPG" width="16%" /> &nbsp;
+        <img src="https://raw.githubusercontent.com/krishnareddy78/portfolio/main/img14.JPG" width="18%" />
+        <br>
+        &nbsp; <img src="https://raw.githubusercontent.com/krishnareddy78/portfolio/main/img16.png" width="24%" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
