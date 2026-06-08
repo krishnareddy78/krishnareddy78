@@ -77,3 +77,16 @@ Welcome to my portfolio, where I showcase my projects and work.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thanay-krishnareddypeta/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krpthanay2001@gmail.com)
+
+### 📸 Visual Portfolio
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/krishnareddy78/portfolio/main/img1.jpg" width="30%" />
+  <img src="https://raw.githubusercontent.com/krishnareddy78/portfolio/main/img2.JPG" width="30%" />
+  <img src="https://raw.githubusercontent.com/krishnareddy78/portfolio/main/img3.JPG" width="30%" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/krishnareddy78/portfolio/main/img4.JPG" width="30%" />
+  <img src="https://raw.githubusercontent.com/krishnareddy78/portfolio/main/img5.JPG" width="30%" />
+  <img src="https://raw.githubusercontent.com/krishnareddy78/portfolio/main/img7.JPG" width="30%" />
+</p>
