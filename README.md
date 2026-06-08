@@ -12,20 +12,22 @@ Hello, I'm **Thanay**. Full-stack Data & ML Engineer with 3+ years of US industr
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/krishnareddy78/portfolio/main/img1.jpg" width="14%" />
-  <img src="https://raw.githubusercontent.com/krishnareddy78/portfolio/main/img3.JPG" width="14%" />
-  <img src="https://raw.githubusercontent.com/krishnareddy78/portfolio/main/img4.JPG" width="14%" />
-  <img src="https://raw.githubusercontent.com/krishnareddy78/portfolio/main/img5.JPG" width="14%" />
-  <img src="https://raw.githubusercontent.com/krishnareddy78/portfolio/main/img7.JPG" width="14%" />
-  <img src="https://raw.githubusercontent.com/krishnareddy78/portfolio/main/img8.JPG" width="14%" />
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/krishnareddy78/portfolio/main/img10.JPG" width="14%" />
-  <img src="https://raw.githubusercontent.com/krishnareddy78/portfolio/main/img11.JPG" width="14%" />
-  <img src="https://raw.githubusercontent.com/krishnareddy78/portfolio/main/img12.JPG" width="14%" />
-  <img src="https://raw.githubusercontent.com/krishnareddy78/portfolio/main/img13.JPG" width="14%" />
-  <img src="https://raw.githubusercontent.com/krishnareddy78/portfolio/main/img14.JPG" width="14%" />
-  <img src="https://raw.githubusercontent.com/krishnareddy78/portfolio/main/img16.png" width="14%" />
+  <img src="https://raw.githubusercontent.com/krishnareddy78/portfolio/main/img1.jpg" width="8%" />
+  <img src="https://raw.githubusercontent.com/krishnareddy78/portfolio/main/img2.JPG" width="12%" /> &nbsp; &nbsp;
+  <img src="https://raw.githubusercontent.com/krishnareddy78/portfolio/main/img3.JPG" width="6%" />
+  <img src="https://raw.githubusercontent.com/krishnareddy78/portfolio/main/img4.JPG" width="10%" /> &nbsp;
+  <img src="https://raw.githubusercontent.com/krishnareddy78/portfolio/main/img5.JPG" width="7%" />
+  <br>
+  &nbsp; &nbsp; &nbsp; <img src="https://raw.githubusercontent.com/krishnareddy78/portfolio/main/img7.JPG" width="14%" />
+  <img src="https://raw.githubusercontent.com/krishnareddy78/portfolio/main/img8.JPG" width="9%" />
+  <img src="https://raw.githubusercontent.com/krishnareddy78/portfolio/main/img10.JPG" width="11%" /> &nbsp; &nbsp;
+  <br>
+  <img src="https://raw.githubusercontent.com/krishnareddy78/portfolio/main/img11.JPG" width="6%" /> &nbsp;
+  <img src="https://raw.githubusercontent.com/krishnareddy78/portfolio/main/img12.JPG" width="13%" />
+  <img src="https://raw.githubusercontent.com/krishnareddy78/portfolio/main/img13.JPG" width="8%" /> &nbsp; &nbsp; &nbsp;
+  <img src="https://raw.githubusercontent.com/krishnareddy78/portfolio/main/img14.JPG" width="10%" />
+  <br>
+  &nbsp; <img src="https://raw.githubusercontent.com/krishnareddy78/portfolio/main/img16.png" width="12%" />
 </p>
 
 ---
